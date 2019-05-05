@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello3");
 		System.out.println("============");
 		System.out.println("Hello4");
+		System.out.println(10/0);
 
 	}
 
